@@ -19,8 +19,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name:          "0xbytes"
-role:          "Software Engineer & Security Researcher"
+name: "0xbytes"
+role: "Software Engineer & Security Researcher"
 disciplines:
   - "Backend / Systems Development"
   - "Reverse Engineering & Binary Analysis"

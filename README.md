@@ -115,9 +115,6 @@ disciplines:
 </tr>
 </table>
 
-> All security work is oriented toward **authorized testing, research, and defense** — understanding
-> systems deeply in order to secure them.
-
 
 
 </div>

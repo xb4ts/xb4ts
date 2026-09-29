@@ -21,24 +21,16 @@
 ```yaml
 name:          "0xbytes"
 role:          "Software Engineer & Security Researcher"
-location:      "Algeria"
 disciplines:
   - "Backend / Systems Development"
   - "Reverse Engineering & Binary Analysis"
   - "Network & Protocol Analysis"
   - "Penetration Testing & Security Research"
   - "Automation Engineering"
-philosophy:    "Understand the system before you build — or break — it."
-currently:     "Low-level internals, protocol reversing, and secure automation"
 ```
 
-I engineer software from the **backend to the wire** — building services, dissecting binaries,
-and studying how systems communicate at the protocol level. I move comfortably between
-**high-level application code** and **low-level systems internals**, with a strong focus on
-**reverse engineering, network analysis, and offensive/defensive security research**.
-
 <!-- ======================= TECH STACK ======================= -->
-## 🧰 Tech Stack
+## 🧰 Stack
 
 #### Languages
 <p>
@@ -126,33 +118,6 @@ and studying how systems communicate at the protocol level. I move comfortably b
 > All security work is oriented toward **authorized testing, research, and defense** — understanding
 > systems deeply in order to secure them.
 
-<!-- ======================= STATS ======================= -->
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xb4ts&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xb4ts&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xb4ts&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
-
-</div>
-
-<!-- ======================= CONNECT ======================= -->
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/xb4ts">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<i>“Security is not a product, but a process.”</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>

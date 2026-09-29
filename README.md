@@ -38,8 +38,7 @@
     "Network & Protocol Analysis",
     "Penetration Testing & Security Research",
     "Automation & Bot Engineering"
-  ],
-  "mindset"     : "Understand the system before you build — or break — it."
+  ]
 }
 ```
 

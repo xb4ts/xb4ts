@@ -30,8 +30,8 @@
 ┌──(root@xb4ts)-[~]
 └─$ cat profile.json
 {
-  "alias"       : "0xbytes",
-  "role"        : "Software Engineer & Security Researcher",
+  "alias" : "0xbytes",
+  "role"  : "Software Engineer & Security Researcher",
   "specialties" : [
     "Backend / Systems Development",
     "Reverse Engineering & Binary Analysis",

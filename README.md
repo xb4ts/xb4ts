@@ -11,8 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=xb4ts&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" alt="profile views" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/BASED%20IN-ALGERIA%20%F0%9F%87%A9%F0%9F%87%BF-2C5364?style=for-the-badge" alt="location" />
 &nbsp;
 <img src="https://img.shields.io/badge/FOCUS-SECURITY%20%26%20SYSTEMS-0F2027?style=for-the-badge&labelColor=36BCF7" alt="focus" />
